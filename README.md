@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="demo" src=".github/demo.gif" width="50%">
+  <img alt="demo" src=".github/demo.gif" width="100%">
 </p>
 
 <br/>
